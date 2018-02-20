@@ -1,0 +1,17 @@
+body{
+  width:950px;
+  margin:0 auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mainHeader{
+   background-image: url("rockpaperscissors.jpg");
+   width:950px;
+   margin:0 auto;
+   height:150px;
+}
+#mainDiv{
+   margin-top: 15px;
+}
+.imgClass{
+    padding-right: 15px;
+}
